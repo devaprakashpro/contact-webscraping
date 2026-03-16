@@ -1,0 +1,8 @@
+# List of websites to scrape
+# Add one URL per line
+# Lines starting with # are comments
+
+example.com
+https://company1.com
+https://company2.com/contact
+business-directory.com/search?term=plumbers

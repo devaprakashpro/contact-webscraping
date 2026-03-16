@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-16T12:15:48.976528",
+    "total_urls_scraped": 4,
+    "total_contacts_found": {
+      "emails": 0,
+      "phones": 0,
+      "addresses": 0
+    }
+  },
+  "results": [
+    {
+      "source_url": "https://example.com",
+      "contacts": {
+        "emails": [],
+        "phones": [],
+        "addresses": []
+      }
+    },
+    {
+      "source_url": "https://company1.com",
+      "contacts": {
+        "emails": [],
+        "phones": [],
+        "addresses": []
+      }
+    },
+    {
+      "source_url": "https://company2.com/contact",
+      "contacts": {
+        "emails": [],
+        "phones": [],
+        "addresses": []
+      }
+    },
+    {
+      "source_url": "https://business-directory.com/search?term=plumbers",
+      "contacts": {
+        "emails": [],
+        "phones": [],
+        "addresses": []
+      }
+    }
+  ],
+  "all_emails": [],
+  "all_phones": [],
+  "all_addresses": []
+}

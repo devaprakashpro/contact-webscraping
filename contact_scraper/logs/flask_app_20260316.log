@@ -1,0 +1,2145 @@
+2026-03-16 12:00:36 - flask_app - INFO - Starting Flask contact scraper dashboard
+2026-03-16 12:00:36 - flask_app - INFO - Starting Flask contact scraper dashboard
+2026-03-16 12:02:00 - flask_app - INFO - Created job 185066e8 for 101 URLs
+2026-03-16 12:02:00 - flask_app - INFO - Starting job 185066e8 for 101 URLs
+2026-03-16 12:02:00 - flask_app - DEBUG - Job 185066e8: Processing https://www.biocon.com
+2026-03-16 12:02:01 - flask_app - DEBUG - Job 185066e8: Processing https://www.seruminstitute.com
+2026-03-16 12:02:02 - flask_app - DEBUG - Job 185066e8: Processing https://www.panacea-biotec.com
+2026-03-16 12:02:03 - flask_app - DEBUG - Job 185066e8: Processing https://www.wockhardt.com
+2026-03-16 12:02:10 - flask_app - DEBUG - Job 185066e8: Processing https://www.zyduslife.com
+2026-03-16 12:02:10 - flask_app - DEBUG - Job 185066e8: Processing https://www.bharatserums.com
+2026-03-16 12:02:11 - flask_app - DEBUG - Job 185066e8: Processing https://www.indimmune.com
+2026-03-16 12:02:19 - flask_app - DEBUG - Job 185066e8: Processing https://www.krebsbiochem.com
+2026-03-16 12:02:20 - flask_app - DEBUG - Job 185066e8: Processing https://www.transasia.co.in
+2026-03-16 12:02:21 - flask_app - DEBUG - Job 185066e8: Processing https://www.praj.net
+2026-03-16 12:02:28 - flask_app - DEBUG - Job 185066e8: Processing https://www.drreddys.com
+2026-03-16 12:02:38 - flask_app - DEBUG - Job 185066e8: Processing https://www.novonordisk.com
+2026-03-16 12:02:38 - flask_app - DEBUG - Job 185066e8: Processing https://www.biontech.com
+2026-03-16 12:02:40 - flask_app - DEBUG - Job 185066e8: Processing https://www.vrtx.com
+2026-03-16 12:02:41 - flask_app - DEBUG - Job 185066e8: Processing https://www.alnylam.com
+2026-03-16 12:02:46 - flask_app - DEBUG - Job 185066e8: Processing https://insilico.com
+2026-03-16 12:02:49 - flask_app - DEBUG - Job 185066e8: Processing https://www.amgen.com
+2026-03-16 12:02:53 - flask_app - DEBUG - Job 185066e8: Processing https://www.biogen.com
+2026-03-16 12:02:55 - flask_app - DEBUG - Job 185066e8: Processing https://www.regeneron.com
+2026-03-16 12:02:59 - flask_app - DEBUG - Job 185066e8: Processing https://www.gilead.com
+2026-03-16 12:03:03 - flask_app - DEBUG - Job 185066e8: Processing https://www.modernatx.com
+2026-03-16 12:03:10 - flask_app - DEBUG - Job 185066e8: Processing https://www.illumina.com
+2026-03-16 12:03:11 - flask_app - DEBUG - Job 185066e8: Processing https://www.crisprtx.com
+2026-03-16 12:03:15 - flask_app - DEBUG - Job 185066e8: Processing https://www.beigene.com
+2026-03-16 12:03:20 - flask_app - DEBUG - Job 185066e8: Processing https://www.exelixis.com
+2026-03-16 12:03:33 - flask_app - DEBUG - Job 185066e8: Processing https://www.seagen.com
+2026-03-16 12:03:34 - flask_app - DEBUG - Job 185066e8: Processing https://www.blueprintmedicines.com
+2026-03-16 12:03:37 - flask_app - DEBUG - Job 185066e8: Processing https://www.agenusbio.com
+2026-03-16 12:03:38 - flask_app - DEBUG - Job 185066e8: Processing https://www.adicetbio.com
+2026-03-16 12:03:40 - flask_app - DEBUG - Job 185066e8: Processing https://www.arcusbio.com
+2026-03-16 12:03:43 - flask_app - DEBUG - Job 185066e8: Processing https://www.avelasbio.com
+2026-03-16 12:03:44 - flask_app - DEBUG - Job 185066e8: Processing https://www.avrobio.com
+2026-03-16 12:03:46 - flask_app - DEBUG - Job 185066e8: Processing https://www.beaconbio.com
+2026-03-16 12:03:48 - flask_app - DEBUG - Job 185066e8: Processing https://www.berkeleylights.com
+2026-03-16 12:03:52 - flask_app - DEBUG - Job 185066e8: Processing https://www.bicycletherapeutics.com
+2026-03-16 12:03:54 - flask_app - DEBUG - Job 185066e8: Processing https://www.blackdiamondtherapeutics.com
+2026-03-16 12:04:00 - flask_app - DEBUG - Job 185066e8: Processing https://www.bluebirdbio.com
+2026-03-16 12:04:03 - flask_app - DEBUG - Job 185066e8: Processing https://www.bridgebio.com
+2026-03-16 12:04:16 - flask_app - DEBUG - Job 185066e8: Processing https://www.cellectis.com
+2026-03-16 12:04:19 - flask_app - DEBUG - Job 185066e8: Processing https://www.catalent.com
+2026-03-16 12:04:20 - flask_app - DEBUG - Job 185066e8: Processing https://www.celgene.com
+2026-03-16 12:04:22 - flask_app - DEBUG - Job 185066e8: Processing https://www.crinetics.com
+2026-03-16 12:04:23 - flask_app - DEBUG - Job 185066e8: Processing https://www.denalitherapeutics.com
+2026-03-16 12:04:29 - flask_app - DEBUG - Job 185066e8: Processing https://www.dicerna.com
+2026-03-16 12:04:34 - flask_app - DEBUG - Job 185066e8: Processing https://www.editasmedicine.com
+2026-03-16 12:04:37 - flask_app - DEBUG - Job 185066e8: Processing https://www.ensemblbio.com
+2026-03-16 12:04:37 - flask_app - DEBUG - Job 185066e8: Processing https://www.exscientia.ai
+2026-03-16 12:04:39 - flask_app - DEBUG - Job 185066e8: Processing https://www.fibrogen.com
+2026-03-16 12:04:41 - flask_app - DEBUG - Job 185066e8: Processing https://www.genmab.com
+2026-03-16 12:04:41 - flask_app - DEBUG - Job 185066e8: Processing https://www.horizontherapeutics.com
+2026-03-16 12:04:46 - flask_app - DEBUG - Job 185066e8: Processing https://www.immunocore.com
+2026-03-16 12:04:48 - flask_app - DEBUG - Job 185066e8: Processing https://www.incyte.com
+2026-03-16 12:04:53 - flask_app - DEBUG - Job 185066e8: Processing https://www.intelliatx.com
+2026-03-16 12:04:56 - flask_app - DEBUG - Job 185066e8: Processing https://www.ionispharma.com
+2026-03-16 12:05:01 - flask_app - DEBUG - Job 185066e8: Processing https://www.karyopharm.com
+2026-03-16 12:05:05 - flask_app - DEBUG - Job 185066e8: Processing https://www.kymeratx.com
+2026-03-16 12:05:11 - flask_app - DEBUG - Job 185066e8: Processing https://www.morphosys.com
+2026-03-16 12:05:12 - flask_app - DEBUG - Job 185066e8: Processing https://www.neurocrine.com
+2026-03-16 12:05:15 - flask_app - DEBUG - Job 185066e8: Processing https://www.novavax.com
+2026-03-16 12:05:18 - flask_app - DEBUG - Job 185066e8: Processing https://www.onyxpharm.com
+2026-03-16 12:05:38 - flask_app - DEBUG - Job 185066e8: Processing https://www.orchard-tx.com
+2026-03-16 12:05:44 - flask_app - DEBUG - Job 185066e8: Processing https://www.pacificbiosciences.com
+2026-03-16 12:05:47 - flask_app - DEBUG - Job 185066e8: Processing https://www.precisionbiosciences.com
+2026-03-16 12:05:52 - flask_app - DEBUG - Job 185066e8: Processing https://www.protagonist-inc.com
+2026-03-16 12:05:53 - flask_app - DEBUG - Job 185066e8: Processing https://www.repligen.com
+2026-03-16 12:06:10 - flask_app - DEBUG - Job 185066e8: Processing https://www.revolutionmedicines.com
+2026-03-16 12:06:13 - flask_app - DEBUG - Job 185066e8: Processing https://www.sana.com
+2026-03-16 12:06:16 - flask_app - DEBUG - Job 185066e8: Processing https://www.sarepta.com
+2026-03-16 12:06:17 - flask_app - DEBUG - Job 185066e8: Processing https://www.schrodinger.com
+2026-03-16 12:06:20 - flask_app - DEBUG - Job 185066e8: Processing https://www.semanticscholar.org
+2026-03-16 12:06:22 - flask_app - DEBUG - Job 185066e8: Processing https://www.synthekine.com
+2026-03-16 12:06:26 - flask_app - DEBUG - Job 185066e8: Processing https://www.takeda.com
+2026-03-16 12:06:28 - flask_app - DEBUG - Job 185066e8: Processing https://www.tangobiopharma.com
+2026-03-16 12:06:28 - flask_app - DEBUG - Job 185066e8: Processing https://www.thermofisher.com
+2026-03-16 12:06:31 - flask_app - DEBUG - Job 185066e8: Processing https://www.ultragenyx.com
+2026-03-16 12:06:34 - flask_app - DEBUG - Job 185066e8: Processing https://www.unitedtherapeutics.com
+2026-03-16 12:06:38 - flask_app - DEBUG - Job 185066e8: Processing https://www.veracyte.com
+2026-03-16 12:06:40 - flask_app - DEBUG - Job 185066e8: Processing https://www.vericel.com
+2026-03-16 12:06:41 - flask_app - DEBUG - Job 185066e8: Processing https://www.vertex.com
+2026-03-16 12:06:42 - flask_app - DEBUG - Job 185066e8: Processing https://www.vir.bio
+2026-03-16 12:06:45 - flask_app - DEBUG - Job 185066e8: Processing https://www.wavebio.com
+2026-03-16 12:06:47 - flask_app - DEBUG - Job 185066e8: Processing https://www.xencor.com
+2026-03-16 12:07:01 - flask_app - DEBUG - Job 185066e8: Processing https://www.zymeworks.com
+2026-03-16 12:07:01 - flask_app - DEBUG - Job 185066e8: Processing https://www.10xgenomics.com
+2026-03-16 12:07:03 - flask_app - DEBUG - Job 185066e8: Processing https://www.4basebio.com
+2026-03-16 12:07:03 - flask_app - DEBUG - Job 185066e8: Processing https://www.4dmoleculartherapeutics.com
+2026-03-16 12:07:11 - flask_app - DEBUG - Job 185066e8: Processing https://www.4sc.com
+2026-03-16 12:07:17 - flask_app - DEBUG - Job 185066e8: Processing https://www.89bio.com
+2026-03-16 12:07:19 - flask_app - DEBUG - Job 185066e8: Processing https://www.a2bio.com
+2026-03-16 12:07:22 - flask_app - DEBUG - Job 185066e8: Processing https://www.aavogen.com
+2026-03-16 12:07:24 - flask_app - DEBUG - Job 185066e8: Processing https://www.abalonebio.com
+2026-03-16 12:07:25 - flask_app - DEBUG - Job 185066e8: Processing https://www.absci.com
+2026-03-16 12:07:27 - flask_app - DEBUG - Job 185066e8: Processing https://www.acelyrin.com
+2026-03-16 12:07:32 - flask_app - DEBUG - Job 185066e8: Processing https://www.acimmune.com
+2026-03-16 12:07:36 - flask_app - DEBUG - Job 185066e8: Processing https://www.aclaristx.com
+2026-03-16 12:07:38 - flask_app - DEBUG - Job 185066e8: Processing https://www.adverum.com
+2026-03-16 12:07:43 - flask_app - DEBUG - Job 185066e8: Processing https://www.affimed.com
+2026-03-16 12:07:44 - flask_app - DEBUG - Job 185066e8: Processing https://www.agios.com
+2026-03-16 12:07:48 - flask_app - DEBUG - Job 185066e8: Processing https://www.alkermes.com
+2026-03-16 12:07:51 - flask_app - DEBUG - Job 185066e8: Processing https://www.allogene.com
+2026-03-16 12:07:59 - flask_app - DEBUG - Job 185066e8: Processing https://www.alpineimmune.com
+2026-03-16 12:08:00 - flask_app - INFO - Job 185066e8 completed successfully: {'emails': 159, 'phones': 521, 'addresses': 429}
+2026-03-16 12:08:09 - flask_app - INFO - Downloading file: contacts_20260316_120800.csv
+2026-03-16 12:35:54 - flask_app - INFO - Connected to Redis at localhost:6379
+2026-03-16 12:36:52 - flask_app - INFO - Connected to Redis at localhost:6379
+2026-03-16 12:36:52 - flask_app - INFO - Starting Flask contact scraper dashboard with authentication
+2026-03-16 12:36:52 - flask_app - INFO - Connected to Redis at localhost:6379
+2026-03-16 12:36:52 - flask_app - INFO - Starting Flask contact scraper dashboard with authentication
+2026-03-16 12:58:17 - flask_app - INFO - Connected to Redis at localhost:6379
+2026-03-16 12:58:18 - flask_app - INFO - Starting Flask contact scraper dashboard with authentication
+2026-03-16 12:58:42 - flask_app - INFO - User techforge logged in successfully
+2026-03-16 12:59:18 - flask_app - INFO - Created job 39686f6a for 101 URLs by user techforge
+2026-03-16 12:59:18 - flask_app - INFO - Starting job 39686f6a for 101 URLs
+2026-03-16 12:59:18 - flask_app - DEBUG - Job 39686f6a: Processing https://www.biocon.com
+2026-03-16 12:59:18 - flask_app - DEBUG - Job 39686f6a: Processing https://www.seruminstitute.com
+2026-03-16 12:59:19 - flask_app - DEBUG - Job 39686f6a: Processing https://www.panacea-biotec.com
+2026-03-16 12:59:20 - flask_app - DEBUG - Job 39686f6a: Processing https://www.wockhardt.com
+2026-03-16 12:59:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:28 - flask_app - DEBUG - Job 39686f6a: Processing https://www.zyduslife.com
+2026-03-16 12:59:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:29 - flask_app - DEBUG - Job 39686f6a: Processing https://www.bharatserums.com
+2026-03-16 12:59:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:30 - flask_app - DEBUG - Job 39686f6a: Processing https://www.indimmune.com
+2026-03-16 12:59:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:32 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:33 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:33 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:34 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:35 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:36 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:36 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:37 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:38 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:39 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:39 - flask_app - DEBUG - Job 39686f6a: Processing https://www.krebsbiochem.com
+2026-03-16 12:59:39 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:40 - flask_app - DEBUG - Job 39686f6a: Processing https://www.transasia.co.in
+2026-03-16 12:59:40 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:41 - flask_app - DEBUG - Job 39686f6a: Processing https://www.praj.net
+2026-03-16 12:59:41 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:42 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:48 - flask_app - DEBUG - Job 39686f6a: Processing https://www.drreddys.com
+2026-03-16 12:59:49 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:50 - flask_app - DEBUG - Job 39686f6a: Processing https://www.novonordisk.com
+2026-03-16 12:59:50 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:51 - flask_app - DEBUG - Job 39686f6a: Processing https://www.biontech.com
+2026-03-16 12:59:51 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:52 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:53 - flask_app - DEBUG - Job 39686f6a: Processing https://www.vrtx.com
+2026-03-16 12:59:53 - flask_app - DEBUG - Job 39686f6a: Processing https://www.alnylam.com
+2026-03-16 12:59:54 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:58 - flask_app - DEBUG - Job 39686f6a: Processing https://insilico.com
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 12:59:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - DEBUG - Job 39686f6a: Processing https://www.amgen.com
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - DEBUG - Job 39686f6a: Processing https://www.biogen.com
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - DEBUG - Job 39686f6a: Processing https://www.regeneron.com
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - DEBUG - Job 39686f6a: Processing https://www.gilead.com
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:18 - flask_app - DEBUG - Job 39686f6a: Processing https://www.modernatx.com
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - DEBUG - Job 39686f6a: Processing https://www.illumina.com
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - DEBUG - Job 39686f6a: Processing https://www.crisprtx.com
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:32 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:32 - flask_app - DEBUG - Job 39686f6a: Processing https://www.beigene.com
+2026-03-16 13:00:33 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:33 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:34 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:35 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:36 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:36 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:37 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:38 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:38 - flask_app - DEBUG - Job 39686f6a: Processing https://www.exelixis.com
+2026-03-16 13:00:39 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:39 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:40 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:41 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:42 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:42 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:50 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:51 - flask_app - DEBUG - Job 39686f6a: Processing https://www.seagen.com
+2026-03-16 13:00:51 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:52 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:52 - flask_app - DEBUG - Job 39686f6a: Processing https://www.blueprintmedicines.com
+2026-03-16 13:00:53 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:54 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - DEBUG - Job 39686f6a: Processing https://www.agenusbio.com
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - DEBUG - Job 39686f6a: Processing https://www.adicetbio.com
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:00:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - DEBUG - Job 39686f6a: Processing https://www.arcusbio.com
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:04 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - DEBUG - Job 39686f6a: Processing https://www.avelasbio.com
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:05 - flask_app - DEBUG - Job 39686f6a: Processing https://www.avrobio.com
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:06 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:07 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:08 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - DEBUG - Job 39686f6a: Processing https://www.beaconbio.com
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:09 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:10 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - DEBUG - Job 39686f6a: Processing https://www.berkeleylights.com
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:11 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:12 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:13 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:14 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - DEBUG - Job 39686f6a: Processing https://www.bicycletherapeutics.com
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:15 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:16 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - DEBUG - Job 39686f6a: Processing https://www.blackdiamondtherapeutics.com
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:17 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:18 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:19 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:20 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:21 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:22 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:23 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - DEBUG - Job 39686f6a: Processing https://www.bluebirdbio.com
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:24 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:25 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:26 - flask_app - DEBUG - Job 39686f6a: Processing https://www.bridgebio.com
+2026-03-16 13:01:26 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:27 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:28 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:29 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - DEBUG - Job 39686f6a: Processing https://www.cellectis.com
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:30 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:31 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:32 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:33 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:33 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:33 - flask_app - DEBUG - Job 39686f6a: Processing https://www.catalent.com
+2026-03-16 13:01:34 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:34 - flask_app - DEBUG - Job 39686f6a: Processing https://www.celgene.com
+2026-03-16 13:01:35 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:35 - flask_app - DEBUG - Job 39686f6a: Processing https://www.crinetics.com
+2026-03-16 13:01:36 - flask_app - DEBUG - Job 39686f6a: Processing https://www.denalitherapeutics.com
+2026-03-16 13:01:36 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:36 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:37 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:38 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:39 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:39 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:40 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:41 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:41 - flask_app - DEBUG - Job 39686f6a: Processing https://www.dicerna.com
+2026-03-16 13:01:42 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:42 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:49 - flask_app - DEBUG - Job 39686f6a: Processing https://www.editasmedicine.com
+2026-03-16 13:01:51 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:52 - flask_app - DEBUG - Job 39686f6a: Processing https://www.ensemblbio.com
+2026-03-16 13:01:52 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:52 - flask_app - DEBUG - Job 39686f6a: Processing https://www.exscientia.ai
+2026-03-16 13:01:53 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:53 - flask_app - DEBUG - Job 39686f6a: Processing https://www.fibrogen.com
+2026-03-16 13:01:54 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:55 - flask_app - DEBUG - Job 39686f6a: Processing https://www.genmab.com
+2026-03-16 13:01:55 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:55 - flask_app - DEBUG - Job 39686f6a: Processing https://www.horizontherapeutics.com
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:56 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:57 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:58 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:01:59 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:00 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - DEBUG - Job 39686f6a: Processing https://www.immunocore.com
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:01 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:02 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - DEBUG - Job 39686f6a: Processing https://www.incyte.com
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:03 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:02:08 - flask_app - DEBUG - Job 39686f6a: Processing https://www.intelliatx.com
+2026-03-16 13:02:10 - flask_app - DEBUG - Job 39686f6a: Processing https://www.ionispharma.com
+2026-03-16 13:02:15 - flask_app - DEBUG - Job 39686f6a: Processing https://www.karyopharm.com
+2026-03-16 13:02:19 - flask_app - DEBUG - Job 39686f6a: Processing https://www.kymeratx.com
+2026-03-16 13:02:22 - flask_app - DEBUG - Job 39686f6a: Processing https://www.morphosys.com
+2026-03-16 13:02:24 - flask_app - DEBUG - Job 39686f6a: Processing https://www.neurocrine.com
+2026-03-16 13:02:27 - flask_app - DEBUG - Job 39686f6a: Processing https://www.novavax.com
+2026-03-16 13:02:29 - flask_app - DEBUG - Job 39686f6a: Processing https://www.onyxpharm.com
+2026-03-16 13:02:49 - flask_app - DEBUG - Job 39686f6a: Processing https://www.orchard-tx.com
+2026-03-16 13:02:54 - flask_app - DEBUG - Job 39686f6a: Processing https://www.pacificbiosciences.com
+2026-03-16 13:02:57 - flask_app - DEBUG - Job 39686f6a: Processing https://www.precisionbiosciences.com
+2026-03-16 13:03:02 - flask_app - DEBUG - Job 39686f6a: Processing https://www.protagonist-inc.com
+2026-03-16 13:03:04 - flask_app - DEBUG - Job 39686f6a: Processing https://www.repligen.com
+2026-03-16 13:03:20 - flask_app - DEBUG - Job 39686f6a: Processing https://www.revolutionmedicines.com
+2026-03-16 13:03:24 - flask_app - DEBUG - Job 39686f6a: Processing https://www.sana.com
+2026-03-16 13:03:26 - flask_app - DEBUG - Job 39686f6a: Processing https://www.sarepta.com
+2026-03-16 13:03:27 - flask_app - DEBUG - Job 39686f6a: Processing https://www.schrodinger.com
+2026-03-16 13:03:30 - flask_app - DEBUG - Job 39686f6a: Processing https://www.semanticscholar.org
+2026-03-16 13:03:33 - flask_app - DEBUG - Job 39686f6a: Processing https://www.synthekine.com
+2026-03-16 13:03:37 - flask_app - DEBUG - Job 39686f6a: Processing https://www.takeda.com
+2026-03-16 13:03:38 - flask_app - DEBUG - Job 39686f6a: Processing https://www.tangobiopharma.com
+2026-03-16 13:03:44 - flask_app - DEBUG - Job 39686f6a: Processing https://www.thermofisher.com
+2026-03-16 13:03:46 - flask_app - DEBUG - Job 39686f6a: Processing https://www.ultragenyx.com
+2026-03-16 13:03:50 - flask_app - DEBUG - Job 39686f6a: Processing https://www.unitedtherapeutics.com
+2026-03-16 13:03:51 - flask_app - DEBUG - Job 39686f6a: Processing https://www.veracyte.com
+2026-03-16 13:03:52 - flask_app - DEBUG - Job 39686f6a: Processing https://www.vericel.com
+2026-03-16 13:03:53 - flask_app - DEBUG - Job 39686f6a: Processing https://www.vertex.com
+2026-03-16 13:03:53 - flask_app - DEBUG - Job 39686f6a: Processing https://www.vir.bio
+2026-03-16 13:03:56 - flask_app - DEBUG - Job 39686f6a: Processing https://www.wavebio.com
+2026-03-16 13:03:57 - flask_app - DEBUG - Job 39686f6a: Processing https://www.xencor.com
+2026-03-16 13:04:12 - flask_app - DEBUG - Job 39686f6a: Processing https://www.zymeworks.com
+2026-03-16 13:04:13 - flask_app - DEBUG - Job 39686f6a: Processing https://www.10xgenomics.com
+2026-03-16 13:04:14 - flask_app - DEBUG - Job 39686f6a: Processing https://www.4basebio.com
+2026-03-16 13:04:15 - flask_app - DEBUG - Job 39686f6a: Processing https://www.4dmoleculartherapeutics.com
+2026-03-16 13:04:22 - flask_app - DEBUG - Job 39686f6a: Processing https://www.4sc.com
+2026-03-16 13:04:29 - flask_app - DEBUG - Job 39686f6a: Processing https://www.89bio.com
+2026-03-16 13:04:32 - flask_app - DEBUG - Job 39686f6a: Processing https://www.a2bio.com
+2026-03-16 13:04:35 - flask_app - DEBUG - Job 39686f6a: Processing https://www.aavogen.com
+2026-03-16 13:04:35 - flask_app - DEBUG - Job 39686f6a: Processing https://www.abalonebio.com
+2026-03-16 13:04:36 - flask_app - DEBUG - Job 39686f6a: Processing https://www.absci.com
+2026-03-16 13:04:39 - flask_app - DEBUG - Job 39686f6a: Processing https://www.acelyrin.com
+2026-03-16 13:04:44 - flask_app - DEBUG - Job 39686f6a: Processing https://www.acimmune.com
+2026-03-16 13:04:49 - flask_app - DEBUG - Job 39686f6a: Processing https://www.aclaristx.com
+2026-03-16 13:04:51 - flask_app - DEBUG - Job 39686f6a: Processing https://www.adverum.com
+2026-03-16 13:04:56 - flask_app - DEBUG - Job 39686f6a: Processing https://www.affimed.com
+2026-03-16 13:04:57 - flask_app - DEBUG - Job 39686f6a: Processing https://www.agios.com
+2026-03-16 13:05:01 - flask_app - DEBUG - Job 39686f6a: Processing https://www.alkermes.com
+2026-03-16 13:05:04 - flask_app - DEBUG - Job 39686f6a: Processing https://www.allogene.com
+2026-03-16 13:05:12 - flask_app - DEBUG - Job 39686f6a: Processing https://www.alpineimmune.com
+2026-03-16 13:05:13 - flask_app - INFO - Job 39686f6a completed successfully: {'emails': 161, 'phones': 525, 'addresses': 441}
+2026-03-16 13:05:57 - flask_app - INFO - Downloading file: contacts_20260316_130513.csv
+2026-03-16 13:06:42 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:06:45 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:08:50 - flask_app - INFO - Downloading file: contacts_summary_20260316_130513.txt
+2026-03-16 13:10:54 - flask_app - WARNING - Rate limit exceeded for 127.0.0.1
+2026-03-16 13:20:26 - flask_app - INFO - Connected to Redis at localhost:6379
+2026-03-16 13:20:26 - flask_app - INFO - Starting Flask contact scraper dashboard with authentication
+2026-03-16 13:20:26 - flask_app - INFO - Connected to Redis at localhost:6379
+2026-03-16 13:20:26 - flask_app - INFO - Starting Flask contact scraper dashboard with authentication

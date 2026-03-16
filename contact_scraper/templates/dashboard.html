@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Scraper Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #4e73df;
+            --success-color: #1cc88a;
+            --danger-color: #e74a3b;
+            --warning-color: #f6c23e;
+            --info-color: #36b9cc;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        .dashboard-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .card {
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15);
+            margin-bottom: 20px;
+            transition: transform 0.2s;
+        }
+        
+        .card:hover {
+            transform: translateY(-2px);
+        }
+        
+        .card-header {
+            background: linear-gradient(135deg, var(--primary-color), #224abe);
+            color: white;
+            border-radius: 15px 15px 0 0 !important;
+            font-weight: 600;
+            padding: 15px 20px;
+        }
+        
+        .stat-card {
+            border-left: 4px solid;
+        }
+        
+        .stat-card.primary { border-left-color: var(--primary-color); }
+        .stat-card.success { border-left-color: var(--success-color); }
+        .stat-card.danger { border-left-color: var(--danger-color); }
+        .stat-card.warning { border-left-color: var(--warning-color); }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--primary-color);
+        }
+        
+        .stat-label {
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            color: #858796;
+            font-weight: 700;
+        }
+        
+        .progress-bar {
+            border-radius: 10px;
+            transition: width 0.3s ease;
+        }
+        
+        .server-monitor {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background: rgba(0, 0, 0, 0.85);
+            color: #fff;
+            padding: 15px;
+            border-radius: 10px;
+            z-index: 9999;
+            min-width: 220px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .server-monitor h6 {
+            margin-bottom: 10px;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #aaa;
+        }
+        
+        .monitor-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+            font-size: 0.85rem;
+        }
+        
+        .monitor-label {
+            color: #ccc;
+        }
+        
+        .monitor-value {
+            font-weight: 700;
+            font-size: 0.9rem;
+        }
+        
+        .monitor-value.cpu { color: #36b9cc; }
+        .monitor-value.memory { color: #f6c23e; }
+        .monitor-value.jobs { color: #1cc88a; }
+        
+        .progress-sm {
+            height: 6px;
+            border-radius: 3px;
+            margin-top: 3px;
+        }
+        
+        .live-indicator {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            background: #1cc88a;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+            margin-right: 5px;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        .job-status {
+            padding: 10px 15px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+        
+        .job-status.running {
+            background: rgba(54, 185, 204, 0.1);
+            border-left: 3px solid var(--info-color);
+        }
+        
+        .job-status.completed {
+            background: rgba(28, 200, 138, 0.1);
+            border-left: 3px solid var(--success-color);
+        }
+        
+        .job-status.failed {
+            background: rgba(231, 74, 59, 0.1);
+            border-left: 3px solid var(--danger-color);
+        }
+        
+        .btn-custom {
+            border-radius: 8px;
+            padding: 10px 20px;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+        
+        .btn-custom:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+        
+        .form-control, .form-select {
+            border-radius: 8px;
+            border: 1px solid #e3e6f0;
+            padding: 12px;
+        }
+        
+        .form-control:focus {
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 0.2rem rgba(78, 115, 223, 0.25);
+        }
+        
+        textarea.form-control {
+            min-height: 150px;
+            font-family: monospace;
+        }
+        
+        .results-table {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        
+        .results-table thead {
+            background: #f8f9fc;
+        }
+        
+        .badge-count {
+            font-size: 0.75rem;
+            padding: 5px 10px;
+        }
+        
+        .user-menu {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            z-index: 9999;
+        }
+        
+        .user-menu .dropdown-toggle {
+            background: rgba(255, 255, 255, 0.95);
+            color: #333;
+            padding: 8px 15px;
+            border-radius: 20px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .user-menu .dropdown-toggle:hover {
+            background: white;
+        }
+        
+        .timer-display {
+            font-family: 'Courier New', monospace;
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--primary-color);
+        }
+        
+        .url-counter {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin: 15px 0;
+        }
+        
+        .counter-box {
+            background: #f8f9fc;
+            padding: 15px 25px;
+            border-radius: 10px;
+            text-align: center;
+            min-width: 120px;
+        }
+        
+        .counter-box .count {
+            font-size: 1.5rem;
+            font-weight: 700;
+            display: block;
+        }
+        
+        .counter-box .label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            color: #858796;
+        }
+        
+        .counter-box.passed .count { color: var(--success-color); }
+        .counter-box.failed .count { color: var(--danger-color); }
+        .counter-box.total .count { color: var(--primary-color); }
+        
+        .current-url {
+            background: #f8f9fc;
+            padding: 10px 15px;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            margin-top: 10px;
+            word-break: break-all;
+        }
+        
+        .current-url i {
+            color: var(--info-color);
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+    <!-- User Menu -->
+    <div class="user-menu">
+        <div class="dropdown">
+            <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown">
+                <i class="bi bi-person-circle"></i>
+                <span id="username">{{ current_user.username }}</span>
+            </a>
+            <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="{{ url_for('logout') }}"><i class="bi bi-box-arrow-right"></i> Logout</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Server Monitor -->
+    <div class="server-monitor">
+        <h6><span class="live-indicator"></span>Server Monitor</h6>
+        <div class="monitor-item">
+            <span class="monitor-label"><i class="bi bi-cpu"></i> CPU</span>
+            <span class="monitor-value cpu" id="cpu-usage">--%</span>
+        </div>
+        <div class="progress progress-sm">
+            <div class="progress-bar bg-info" id="cpu-bar" style="width: 0%"></div>
+        </div>
+        <div class="monitor-item mt-2">
+            <span class="monitor-label"><i class="bi bi-memory"></i> Memory</span>
+            <span class="monitor-value memory" id="memory-usage">--%</span>
+        </div>
+        <div class="progress progress-sm">
+            <div class="progress-bar bg-warning" id="memory-bar" style="width: 0%"></div>
+        </div>
+        <div class="monitor-item mt-2">
+            <span class="monitor-label"><i class="bi bi-activity"></i> Active Jobs</span>
+            <span class="monitor-value jobs" id="active-jobs">0</span>
+        </div>
+        <div class="mt-2" style="font-size: 0.7rem; color: #888;">
+            <span id="redis-status"><i class="bi bi-circle-fill"></i> Redis: --</span>
+        </div>
+    </div>
+
+    <div class="dashboard-container">
+        <div class="text-center mb-4">
+            <h1 class="text-white mb-2">
+                <i class="bi bi-globe2"></i> Contact Scraper Dashboard
+            </h1>
+            <p class="text-white-50">Extract emails, phones, and addresses from websites</p>
+        </div>
+
+        <!-- Stats Row -->
+        <div class="row">
+            <div class="col-xl-3 col-md-6">
+                <div class="card stat-card primary">
+                    <div class="card-body">
+                        <div class="stat-label">Total Jobs</div>
+                        <div class="stat-value" id="total-jobs">0</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6">
+                <div class="card stat-card success">
+                    <div class="card-body">
+                        <div class="stat-label">Emails Found</div>
+                        <div class="stat-value" id="total-emails">0</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6">
+                <div class="card stat-card warning">
+                    <div class="card-body">
+                        <div class="stat-label">Phones Found</div>
+                        <div class="stat-value" id="total-phones">0</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6">
+                <div class="card stat-card info">
+                    <div class="card-body">
+                        <div class="stat-label">Addresses Found</div>
+                        <div class="stat-value" id="total-addresses">0</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Scraper Form -->
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="card">
+                    <div class="card-header">
+                        <i class="bi bi-search"></i> Start New Scrape Job
+                    </div>
+                    <div class="card-body">
+                        <form id="scraper-form">
+                            <input type="hidden" name="csrf_token" id="csrf-token" value="">
+                            
+                            <div class="mb-3">
+                                <label class="form-label fw-bold">
+                                    <i class="bi bi-link-45deg"></i> URLs to Scrape
+                                </label>
+                                <textarea 
+                                    class="form-control" 
+                                    id="urls-input" 
+                                    name="urls"
+                                    placeholder="Enter URLs (one per line)&#10;https://example.com&#10;https://company.com/contact"
+                                ></textarea>
+                                <div class="form-text">Or upload a file below</div>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label class="form-label fw-bold">
+                                    <i class="bi bi-file-earmark-text"></i> Upload URL File
+                                </label>
+                                <input type="file" class="form-control" id="urls-file" accept=".txt">
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="mb-3">
+                                        <label class="form-label fw-bold">
+                                            <i class="bi bi-clock"></i> Timeout (seconds)
+                                        </label>
+                                        <input type="number" class="form-control" id="timeout" value="10" min="5" max="60">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="mb-3">
+                                        <label class="form-label fw-bold">
+                                            <i class="bi bi-layers"></i> Max Pages
+                                        </label>
+                                        <input type="number" class="form-control" id="max-pages" value="5" min="1" max="20">
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <button type="submit" class="btn btn-primary btn-custom w-100">
+                                <i class="bi bi-play-fill"></i> Start Scraping
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-4">
+                <div class="card">
+                    <div class="card-header bg-success">
+                        <i class="bi bi-speedometer2"></i> Live Progress
+                    </div>
+                    <div class="card-body">
+                        <div id="progress-container" style="display: none;">
+                            <h6 class="fw-bold mb-2">
+                                <span class="live-indicator"></span>Processing Job: <span id="job-id-display">--</span>
+                            </h6>
+                            
+                            <div class="progress mb-3" style="height: 25px;">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" 
+                                     id="progress-bar" style="width: 0%">
+                                    <span id="progress-percent">0%</span>
+                                </div>
+                            </div>
+                            
+                            <div class="url-counter">
+                                <div class="counter-box total">
+                                    <span class="count" id="urls-total">0</span>
+                                    <span class="label">Total</span>
+                                </div>
+                                <div class="counter-box passed">
+                                    <span class="count" id="urls-passed">0</span>
+                                    <span class="label">Passed</span>
+                                </div>
+                                <div class="counter-box failed">
+                                    <span class="count" id="urls-failed">0</span>
+                                    <span class="label">Failed</span>
+                                </div>
+                            </div>
+                            
+                            <div class="current-url">
+                                <i class="bi bi-geo-alt"></i>
+                                <strong>Current:</strong> <span id="current-url">Waiting...</span>
+                            </div>
+                            
+                            <div class="mt-3">
+                                <div class="d-flex justify-content-between">
+                                    <span class="text-muted">Processing Time:</span>
+                                    <span class="timer-display" id="processing-time">00:00</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div id="no-job-message" class="text-center text-muted py-5">
+                            <i class="bi bi-inbox" style="font-size: 3rem;"></i>
+                            <p class="mt-3">No active job</p>
+                            <p class="small">Start a new scrape to see live progress</p>
+                        </div>
+                        
+                        <div id="job-complete-message" class="text-center text-success py-5" style="display: none;">
+                            <i class="bi bi-check-circle-fill" style="font-size: 3rem;"></i>
+                            <h5 class="mt-3">Job Completed!</h5>
+                            <p class="small" id="completion-stats"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Recent Jobs -->
+        <div class="row mt-4">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <i class="bi bi-clock-history"></i> Recent Jobs
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Job ID</th>
+                                        <th>Status</th>
+                                        <th>URLs</th>
+                                        <th>Progress</th>
+                                        <th>Results</th>
+                                        <th>Time</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="jobs-table">
+                                    <tr>
+                                        <td colspan="7" class="text-center text-muted">No jobs yet</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Container -->
+    <div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+        <div id="liveToast" class="toast" role="alert">
+            <div class="toast-header">
+                <i class="bi bi-bell-fill me-2"></i>
+                <strong class="me-auto">Notification</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="toast"></button>
+            </div>
+            <div class="toast-body" id="toast-message"></div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let currentJobId = null;
+        let progressInterval = null;
+        let statsInterval = null;
+        let csrfToken = '';
+
+        // Get CSRF token on page load
+        async function getCsrfToken() {
+            try {
+                const response = await fetch('/api/csrf-token');
+                const data = await response.json();
+                csrfToken = data.csrf_token;
+                document.getElementById('csrf-token').value = csrfToken;
+            } catch (error) {
+                console.error('Error getting CSRF token:', error);
+            }
+        }
+
+        // Fetch server stats
+        async function fetchServerStats() {
+            try {
+                const response = await fetch('/api/server-stats');
+                const stats = await response.json();
+                
+                // Update CPU
+                document.getElementById('cpu-usage').textContent = stats.cpu_percent + '%';
+                document.getElementById('cpu-bar').style.width = stats.cpu_percent + '%';
+                
+                // Update Memory
+                document.getElementById('memory-usage').textContent = stats.memory_percent + '%';
+                document.getElementById('memory-bar').style.width = stats.memory_percent + '%';
+                
+                // Update Active Jobs
+                document.getElementById('active-jobs').textContent = stats.active_jobs;
+                document.getElementById('total-jobs').textContent = stats.total_jobs;
+                
+                // Update Redis status
+                const redisStatus = document.getElementById('redis-status');
+                if (stats.redis_available) {
+                    redisStatus.innerHTML = '<i class="bi bi-circle-fill text-success"></i> Redis: Connected';
+                } else {
+                    redisStatus.innerHTML = '<i class="bi bi-circle-fill text-danger"></i> Redis: Disconnected';
+                }
+            } catch (error) {
+                console.error('Error fetching server stats:', error);
+            }
+        }
+
+        // Fetch job status
+        async function fetchJobStatus(jobId) {
+            try {
+                const response = await fetch(`/api/status/${jobId}`);
+                const job = await response.json();
+                
+                if (job.error) {
+                    stopProgressMonitoring();
+                    return;
+                }
+                
+                // Update progress bar
+                const progress = job.progress || 0;
+                document.getElementById('progress-bar').style.width = progress + '%';
+                document.getElementById('progress-percent').textContent = progress + '%';
+                
+                // Update counters
+                document.getElementById('urls-total').textContent = job.urls_total || 0;
+                document.getElementById('urls-passed').textContent = job.urls_passed || 0;
+                document.getElementById('urls-failed').textContent = job.urls_failed || 0;
+                
+                // Update current URL
+                document.getElementById('current-url').textContent = job.current_url || 'Waiting...';
+                
+                // Update processing time
+                const processingTime = job.processing_time || 0;
+                const minutes = Math.floor(processingTime / 60);
+                const seconds = Math.floor(processingTime % 60);
+                document.getElementById('processing-time').textContent = 
+                    `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+                
+                // Check if job is complete
+                if (job.status === 'completed') {
+                    showJobComplete(job);
+                    stopProgressMonitoring();
+                    updateStats(job.total_found);
+                } else if (job.status === 'failed') {
+                    showToast('Job failed: ' + (job.error || 'Unknown error'), 'danger');
+                    stopProgressMonitoring();
+                }
+                
+                // Update jobs table
+                updateJobsTable();
+                
+            } catch (error) {
+                console.error('Error fetching job status:', error);
+            }
+        }
+
+        // Show job complete message
+        function showJobComplete(job) {
+            document.getElementById('progress-container').style.display = 'none';
+            document.getElementById('job-complete-message').style.display = 'block';
+            
+            const stats = job.total_found || { emails: 0, phones: 0, addresses: 0 };
+            document.getElementById('completion-stats').innerHTML = `
+                <strong>Emails:</strong> ${stats.emails} | 
+                <strong>Phones:</strong> ${stats.phones} | 
+                <strong>Addresses:</strong> ${stats.addresses}
+            `;
+        }
+
+        // Start progress monitoring
+        function startProgressMonitoring(jobId) {
+            currentJobId = jobId;
+            document.getElementById('job-id-display').textContent = jobId;
+            document.getElementById('progress-container').style.display = 'block';
+            document.getElementById('no-job-message').style.display = 'none';
+            document.getElementById('job-complete-message').style.display = 'none';
+            
+            // Fetch status every second
+            progressInterval = setInterval(() => {
+                fetchJobStatus(jobId);
+            }, 1000);
+        }
+
+        // Stop progress monitoring
+        function stopProgressMonitoring() {
+            if (progressInterval) {
+                clearInterval(progressInterval);
+                progressInterval = null;
+            }
+        }
+
+        // Update overall stats
+        function updateStats(totalFound) {
+            if (totalFound) {
+                const currentEmails = parseInt(document.getElementById('total-emails').textContent) || 0;
+                const currentPhones = parseInt(document.getElementById('total-phones').textContent) || 0;
+                const currentAddresses = parseInt(document.getElementById('total-addresses').textContent) || 0;
+                
+                document.getElementById('total-emails').textContent = currentEmails + (totalFound.emails || 0);
+                document.getElementById('total-phones').textContent = currentPhones + (totalFound.phones || 0);
+                document.getElementById('total-addresses').textContent = currentAddresses + (totalFound.addresses || 0);
+            }
+        }
+
+        // Update jobs table
+        async function updateJobsTable() {
+            try {
+                const response = await fetch('/api/jobs');
+                const jobs = await response.json();
+                
+                const tbody = document.getElementById('jobs-table');
+                
+                if (jobs.length === 0) {
+                    tbody.innerHTML = '<tr><td colspan="7" class="text-center text-muted">No jobs yet</td></tr>';
+                    return;
+                }
+                
+                tbody.innerHTML = jobs.slice(-10).reverse().map(job => {
+                    let statusBadge = '';
+                    if (job.status === 'running') {
+                        statusBadge = '<span class="badge bg-info">Running</span>';
+                    } else if (job.status === 'completed') {
+                        statusBadge = '<span class="badge bg-success">Completed</span>';
+                    } else if (job.status === 'failed') {
+                        statusBadge = '<span class="badge bg-danger">Failed</span>';
+                    } else {
+                        statusBadge = '<span class="badge bg-secondary">Pending</span>';
+                    }
+                    
+                    const results = job.total_found ? 
+                        `<span class="badge badge-count bg-primary">✉ ${job.total_found.emails}</span> ` +
+                        `<span class="badge badge-count bg-warning">📞 ${job.total_found.phones}</span> ` +
+                        `<span class="badge badge-count bg-info">📍 ${job.total_found.addresses}</span>` : 
+                        '-';
+                    
+                    const time = job.processing_time ? 
+                        `${Math.floor(job.processing_time / 60)}m ${Math.floor(job.processing_time % 60)}s` : 
+                        '-';
+                    
+                    return `
+                        <tr>
+                            <td><code>${job.id}</code></td>
+                            <td>${statusBadge}</td>
+                            <td>${job.urls_count || 0}</td>
+                            <td>
+                                <div class="progress" style="height: 8px; width: 100px;">
+                                    <div class="progress-bar" style="width: ${job.progress || 0}%"></div>
+                                </div>
+                                <small>${job.progress || 0}%</small>
+                            </td>
+                            <td>${results}</td>
+                            <td>${time}</td>
+                            <td>
+                                ${job.csv_file ? 
+                                    `<a href="/api/download/${job.csv_file}" class="btn btn-sm btn-outline-primary" title="Download CSV">
+                                        <i class="bi bi-download"></i>
+                                    </a>` : ''}
+                                ${job.organized_files ? 
+                                    `<a href="/api/download/${job.organized_files.summary}" class="btn btn-sm btn-outline-success" title="View Summary">
+                                        <i class="bi bi-file-text"></i>
+                                    </a>` : ''}
+                            </td>
+                        </tr>
+                    `;
+                }).join('');
+                
+            } catch (error) {
+                console.error('Error updating jobs table:', error);
+            }
+        }
+
+        // Show toast notification
+        function showToast(message, type = 'info') {
+            document.getElementById('toast-message').textContent = message;
+            const toastEl = document.getElementById('liveToast');
+            toastEl.classList.remove('bg-success', 'bg-danger', 'bg-warning');
+            if (type === 'success') toastEl.classList.add('bg-success', 'text-white');
+            if (type === 'danger') toastEl.classList.add('bg-danger', 'text-white');
+            if (type === 'warning') toastEl.classList.add('bg-warning');
+            
+            const toast = new bootstrap.Toast(toastEl);
+            toast.show();
+        }
+
+        // Handle form submission
+        document.getElementById('scraper-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const urlsInput = document.getElementById('urls-input').value;
+            const urlsFile = document.getElementById('urls-file').files[0];
+            const timeout = parseInt(document.getElementById('timeout').value) || 10;
+            const maxPages = parseInt(document.getElementById('max-pages').value) || 5;
+            
+            let urls = '';
+            if (urlsInput) {
+                urls = urlsInput;
+            } else if (urlsFile) {
+                // Read file content
+                const reader = new FileReader();
+                reader.onload = async (event) => {
+                    urls = event.target.result;
+                    startScrape(urls, timeout, maxPages);
+                };
+                reader.readAsText(urlsFile);
+                return;
+            }
+            
+            if (!urls && !urlsFile) {
+                showToast('Please enter URLs or upload a file', 'warning');
+                return;
+            }
+            
+            if (urls) {
+                startScrape(urls, timeout, maxPages);
+            }
+        });
+
+        // Start scrape job
+        async function startScrape(urls, timeout, maxPages) {
+            try {
+                const response = await fetch('/api/scrape', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'X-CSRFToken': csrfToken
+                    },
+                    body: JSON.stringify({
+                        urls: urls,
+                        timeout: timeout,
+                        max_pages: maxPages
+                    })
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    showToast('Scrape job started: ' + data.job_id, 'success');
+                    startProgressMonitoring(data.job_id);
+                } else {
+                    showToast('Error: ' + (data.error || 'Unknown error'), 'danger');
+                }
+                
+            } catch (error) {
+                console.error('Error starting scrape:', error);
+                showToast('Error starting scrape job', 'danger');
+            }
+        }
+
+        // Initialize on page load
+        document.addEventListener('DOMContentLoaded', () => {
+            getCsrfToken();
+            fetchServerStats();
+            updateJobsTable();
+            
+            // Update server stats every 2 seconds
+            statsInterval = setInterval(fetchServerStats, 2000);
+            
+            // Update jobs table every 3 seconds
+            setInterval(updateJobsTable, 3000);
+        });
+
+        // Cleanup on page unload
+        window.addEventListener('beforeunload', () => {
+            stopProgressMonitoring();
+            if (statsInterval) {
+                clearInterval(statsInterval);
+            }
+        });
+    </script>
+</body>
+</html>
